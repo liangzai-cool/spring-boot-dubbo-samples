@@ -1,0 +1,7 @@
+spring:
+  dubbo:
+    application:
+      name: spring-boot-dubbo-consumer
+    registry:
+      address: zookeeper://localhost:2181
+    scan: org.xueliang.spring.boot.dubbo
