@@ -1,2 +1,2 @@
 # spring-boot-dubbo-samples
-Spring Boot + Dubbo + Zookeeper + Log4j2 Samples
+Spring Boot + Dubbo + ZooKeeper + SLF4J + Log4j2 Samples
